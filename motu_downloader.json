@@ -1,5 +1,6 @@
 {
-	
+	"motu_user": "XXXX",
+        "motu_password": "XXXX",
 	"domain_lat_min": 41.88515625,
 	"domain_lat_max": 44.50234375,
 	"domain_lon_min": 6.06640625,
