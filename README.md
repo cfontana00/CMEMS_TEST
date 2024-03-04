@@ -35,7 +35,7 @@ PRODUCT:cmems_mod_med_bgc-car_anfc_4.2km_P1D-m
 
 
 
-**In _withCMES, the copernicusmarine command breaks the loop after download and thus download only 2 files:**
+**In _withCMEMS, the copernicusmarine command breaks the loop after download and thus download only 2 files:**
 
 
 CONFIGURATION : motu_downloader.json
